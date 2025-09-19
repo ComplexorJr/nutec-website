@@ -11,7 +11,7 @@ export default defineConfig({
   // Base path for assets:
   // - './' for local preview
   // - '/nutec-website/' for GitHub Pages
-  base: '/nutec-new/',
+  base: './',
 
   resolve: {
     extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
